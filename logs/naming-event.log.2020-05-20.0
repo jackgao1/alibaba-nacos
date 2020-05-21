@@ -1,0 +1,10 @@
+2020-05-20 14:29:15,578 INFO DEFAULT_GROUP@@service-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.1:18081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-20 14:29:15,582 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 192.168.1.1:18081_true,
+
+2020-05-20 14:29:33,380 INFO DEFAULT_GROUP@@service-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.1:18082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-20 14:29:33,382 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-consumer, ips: 192.168.1.1:18082_true,
+
+2020-05-20 14:29:37,682 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-provider, ips: 192.168.1.1:18081_true,
+
